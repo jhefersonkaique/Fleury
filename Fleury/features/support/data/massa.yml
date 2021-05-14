@@ -1,0 +1,4 @@
+#Local especifico para criação de massa de dados fixas.
+localidade: 'Vila Mariana'
+horario_atendimento: 'horário da unidade'
+
